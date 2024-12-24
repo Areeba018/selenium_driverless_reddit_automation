@@ -1,0 +1,16 @@
+[
+    {
+        "proxy": "username:password@host:port",
+        "user": {
+            
+            "reddit": {
+                "username": "mia88561998@gmail.com",
+                "password": "Mia0072001@"
+            },
+            "stocktwits": {
+                "username": "username",
+                "password": "password"
+            }
+        }
+    }   
+]
